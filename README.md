@@ -33,10 +33,12 @@ The model is exported and saved as model.pkl. The recommendation system can be u
 
 To train and use the recommendation system:
 
-    Run the provided Jupyter Notebook code to train the model.
-    Export the trained model as model.pkl.
-    Run the Gradio interface by executing the relevant code in the notebook.
-    Input a game you like and receive personalized recommendations.
+    1. Run the provided Jupyter Notebook code to train the model.
+    2. Export the trained model as model.pkl.
+    3. Run the Gradio interface by executing the relevant code in the notebook.
+    4. Input a game you like and receive personalized recommendations.
+
+If you want to directly use the model, please visit the huggingface space: [Game Recommendation System]([url](https://huggingface.co/spaces/bhushanp/game_recommendation?logs=container))
 
 ## Dependencies 📦
 
