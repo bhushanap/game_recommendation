@@ -38,7 +38,9 @@ To train and use the recommendation system:
     3. Run the Gradio interface by executing the relevant code in the notebook.
     4. Input a game you like and receive personalized recommendations.
 
-If you want to directly use the model, please visit the huggingface space: [Game Recommendation System]([url](https://huggingface.co/spaces/bhushanp/game_recommendation?logs=container))
+If you want to directly use the model, please visit the huggingface space:
+
+    https://huggingface.co/spaces/bhushanp/game_recommendation?logs=container
 
 ## Dependencies 📦
 
@@ -51,8 +53,8 @@ If you want to directly use the model, please visit the huggingface space: [Game
 
 ## Future Plans 🚀
 
-    Use a more exhaustive dataset, not just restricted to Steam, for more diverse recommendations.
-    Fine-tune hyperparameters for better model performance.
-    Utilize Neural Networks for mapping the embeddings.
+    1. Use a more exhaustive dataset, not just restricted to Steam, for more diverse recommendations.
+    2. Fine-tune hyperparameters for better model performance.
+    3. Utilize Neural Networks for mapping the embeddings.
 
 Feel free to explore, modify, and contribute to this project! If you have any questions or suggestions, please don't hesitate to reach out. Happy gaming! 🎮✨
