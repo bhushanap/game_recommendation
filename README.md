@@ -1,2 +1,2 @@
 # game_recommendation
-Game Recommendation System on the steam dataset
+Game Recommendation System based on the steam dataset
