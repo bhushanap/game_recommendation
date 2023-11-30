@@ -19,9 +19,14 @@ The recommendation system employs a collaborative filtering model with a bias te
 
 ## Training 🚀
 
-The model is trained for a fixed number of epochs using the fit_one_cycle method. The training process aims to minimize the difference between predicted and actual playtime hours. After training, the model factors are visualized using Principal Component Analysis (PCA) to represent games along the most significant feature axes.
+The model is trained for a fixed number of epochs using the fit_one_cycle method.
 
-![Untitled](https://github.com/bhushanap/game_recommendation/assets/83635464/af1af49d-49ed-4c96-ae9c-e0da333b43cf)
+![Loss](https://github.com/bhushanap/game_recommendation/assets/83635464/f0965c27-4777-4f57-ac38-281679726e38)
+
+
+The training process aims to minimize the difference between predicted and actual playtime hours. After training, the model factors are visualized using Principal Component Analysis (PCA) to represent games along the most significant feature axes.
+
+![PCA](https://github.com/bhushanap/game_recommendation/assets/83635464/af1af49d-49ed-4c96-ae9c-e0da333b43cf)
 
 
 ## Inference 🎲
