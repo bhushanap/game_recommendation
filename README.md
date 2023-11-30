@@ -21,6 +21,9 @@ The recommendation system employs a collaborative filtering model with a bias te
 
 The model is trained for a fixed number of epochs using the fit_one_cycle method. The training process aims to minimize the difference between predicted and actual playtime hours. After training, the model factors are visualized using Principal Component Analysis (PCA) to represent games along the most significant feature axes.
 
+![Untitled](https://github.com/bhushanap/game_recommendation/assets/83635464/af1af49d-49ed-4c96-ae9c-e0da333b43cf)
+
+
 ## Inference 🎲
 
 After training, the model can be used to make recommendations for games similar to a given input game. The recommendation is based on the cosine similarity between the input game's factors and the factors of other games in the dataset.
